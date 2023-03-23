@@ -1,3 +1,5 @@
+// predict the output
+
 #include<iostream>
 using namespace std;
 int main(){

@@ -1,3 +1,5 @@
+// Write a program to input sides of a triangle and check whether a triangle is equilateral, scalene or 
+// isosceles triangle
 #include<bits/stdc++.h>
 #include<iostream>
 #include<cmath>

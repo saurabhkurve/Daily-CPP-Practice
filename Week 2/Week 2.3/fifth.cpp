@@ -1,3 +1,5 @@
+// Display this GP - 3,12,48,.. upto ‘n’ terms.
+
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;

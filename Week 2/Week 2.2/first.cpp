@@ -1,3 +1,7 @@
+// Write a program to count the minimum number of notes in a given amount using the switch statement.
+// Input 1: 510
+// Output1 : notes of “500” = 1 and notes of “10” = 1
+
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;

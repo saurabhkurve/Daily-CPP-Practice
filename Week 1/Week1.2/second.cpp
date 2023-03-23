@@ -1,3 +1,4 @@
+// Find the output for this code. Let input:- 3 2
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;

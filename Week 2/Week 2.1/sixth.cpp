@@ -1,3 +1,5 @@
+// If the marks of A, B and C are input through the keyboard, write a program to determine the student 
+// scoring the least marks.
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;

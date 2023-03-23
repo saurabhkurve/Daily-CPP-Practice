@@ -1,3 +1,5 @@
+// Print all the odd numbers from 1 to 100.
+
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;

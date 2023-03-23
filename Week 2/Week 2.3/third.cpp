@@ -1,3 +1,5 @@
+// Print the table of ‘n’. Here ‘n’ is an integer which the user will input
+
 #include<bits/stdc++.h>
 #include<iostream>
 using namespace std;
